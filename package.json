@@ -25,7 +25,7 @@
   "dependencies": {
     "inversify": "^5.0.1",
     "ioredis": "^4.11.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-json": "^2.0.2",
